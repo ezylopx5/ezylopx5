@@ -27,7 +27,6 @@ I'm interested in building **reliable, scalable, and aligned AI systems**, with 
 I enjoy working at the intersection of **LLMs, distributed training, MARL, and alignment-focused architectures.**
 
 📫 Email: **u24ai036@aid.svnit.ac.in**  
-🌐 Portfolio: **https://harsh-rathva.vercel.app**  
 🤗 HuggingFace: **https://huggingface.co/Haxxsh**
 
 ---
