@@ -18,11 +18,11 @@ I'm interested in building **reliable, scalable, and aligned AI systems**, with 
 - LLM reliability & safety  
 
 ### **2️⃣ Multi-Agent Reinforcement Learning & AI Alignment**
-- Internal alignment embeddings (ESAI-v3)  
+- Internal alignment embeddings (ESAI)  
 - Counterfactual harm forecasting  
 - Graph diffusion & attention gating  
 - Zero-shot population scaling  
-- Stability of cooperative policies  
+- Stability of cooperative policies 
 
 I enjoy working at the intersection of **LLMs, distributed training, MARL, and alignment-focused architectures.**
 
@@ -48,7 +48,8 @@ I enjoy working at the intersection of **LLMs, distributed training, MARL, and a
 **Architect | MARL + Alignment Research**
 - Designing differentiable alignment embeddings that regulate emergent agent behaviors.  
 - Implementing similarity-weighted graph diffusion & counterfactual forecasting.  
-- Studying **zero-shot population scaling (4 → 16 agents)** and causal interventions.  
+- Studying **zero-shot population scaling (4 → 16 agents)** and causal interventions.
+- Paper: https://arxiv.org/pdf/2512.18309  
 🔗 Repo coming soon  
 
 ---
